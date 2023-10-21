@@ -1,1 +1,1 @@
-# Plant_Disease_Detector
+# Bean_Disease_Detector
