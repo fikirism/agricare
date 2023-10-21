@@ -1,5 +1,7 @@
 {
-    "bell_pepper_fusarium_wilt": "Remove stricken growth from the garden and sterilize pruning clippers (one part bleach to 4 parts water) between cuts.",
-    "bell_pepper_early_bright": "Keep the soil under plants clean and free of garden debris. Add a layer of organic compost to prevent the spores from splashing back up onto vegetation.",
-    "no_plant": "Take a picture of required plant"
+    "Bean_Angular_Leaf_Spot": "Destroy infected plants and any that are in close proximity to them ",
+    "Bean_Healthy": "planting and space plants far enough apart to allow for plenty of air circulation.",
+    "Bean_Rust": "Treat the whole plant with a fungicide, such as copper fungicide or neem oil.",
+    "Not_Bean_leaf":  " Please! capture image corresponding to bean leaf "
+
 }
